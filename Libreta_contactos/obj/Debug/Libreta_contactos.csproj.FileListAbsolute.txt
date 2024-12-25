@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\Libreta_contactos\bin\Debug\Libreta_contactos.exe.config
+C:\Users\DELL\Documents\Libreta_contactos\bin\Debug\Libreta_contactos.exe
+C:\Users\DELL\Documents\Libreta_contactos\bin\Debug\Libreta_contactos.pdb
+C:\Users\DELL\Documents\Libreta_contactos\obj\Debug\Libreta_contactos.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Libreta_contactos\obj\Debug\Libreta_contactos.LibretaContactos.resources
+C:\Users\DELL\Documents\Libreta_contactos\obj\Debug\Libreta_contactos.Properties.Resources.resources
+C:\Users\DELL\Documents\Libreta_contactos\obj\Debug\Libreta_contactos.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Libreta_contactos\obj\Debug\Libreta_contactos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Libreta_contactos\obj\Debug\Libreta_contactos.exe
+C:\Users\DELL\Documents\Libreta_contactos\obj\Debug\Libreta_contactos.pdb
